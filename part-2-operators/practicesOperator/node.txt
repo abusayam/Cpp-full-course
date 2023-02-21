@@ -1,0 +1,12 @@
+here is some practice of 
+
+Relational operator related programs
+
+control statement with Relational operator
+
+1. positive or negative number
+2. even or odd number
+3. Large/small number between 2 numbers
+4. pass or fail
+5. absolute value
+6. letter grade

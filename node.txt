@@ -1,0 +1,241 @@
+@@ PART 1--------------------
+
+@ WHAT IS C++ ?
+
+1. c++ is a knone to be a very power computer programming language.
+2. c++ is generel purpse, case-sensetive , object-oriented programming language.
+
+@USAGE OF C++
+
+1. it used to develope game engines , games and destop apps, art application music players.
+2. c++ bong highly used to write device driver and other software.
+
+@ HISTORY OF C++
+
+1. c++ pogramming language developed in 1980 by bjarne striustrup of AT@T 
+2. bjarne striustrup is known as the founder of c++ programming language.
+3. c++ was derived from c and largely based on it.
+
+@ FEATURES OF C++.
+
+1. simple
+2. mid-level programming language.
+3. rich libary
+4. memory management.
+5. fast speed.
+6. pointer .
+7. recursion.
+8. object oriented.
+9. compiler based.
+
+===================================================================================
+
+@@ PART 2 --------------------
+
+
+WHAT IS POGRAM ?
+1.kono ekti somossa somadaner jonno computer er vasaye (0,1) likhito nirdeser 
+    samostike pogram bole.
+
+2. PROGRAMMING LANGUAGE ? program rochonar jonno vibinno borno sobdho onkko sonket abong 
+    eigulu binnaser maddome niom miliye toiri kora hoy take programming language bole
+    jemon c c++ java assembly language ect.
+
+3 . uchchtor vasaye lekha  code ke bole (source code) .
+    machin vasar code ke bole ( objective code).
+
+4. je pogram source code ke object code rupantorito kore take anubadhok pogram bole.
+    ANUBADHOK POGRAM 
+    1. ASSEMELER
+    2. compiler
+    3. INTERPRETOR
+
+5. jesib vasake compile kora hoy 
+    c, c++, objective-c, c#
+    , pascal, ADA, ect.
+6. jesib vasake interpret kora hoy.
+    basic, php, python, perl, ruby, javascript, ect
+
+=========================================================================
+@@ PART 3.
+
+first C++ program.
+
+#include<iostream>// input output stream ekti header file. #include pogramti songjokto kore
+
+using namespace std;
+
+int main(){
+
+    cout<<"hello world";//cout<< standrad output stream ei commander madhdhome konokichu prodorson korahoy
+
+    return 0;
+}
+
+Escape sequence / backslash character
+c++ program ebackslash bebohar kora hoy ja output stream function hisebe kaj kore.
+
+\a (alert)bell
+\a backSpace
+\f form feed
+\n new line
+\r carring return
+\t horizontal tab
+\v vertical tab
+\0 null character
+\' single quote 
+\" double quote 
+\\ backslash
+\? question mark
+
+================================================================================================
+
+@@ part 4.----------------
+c++Token, keyword , varible, data type
+
+================
+@lec_1 c++ token
+================
+
+tokens // as like language grammer
+    1. keyword
+    2. constant
+    3. identifier
+    4. string
+    5. special symbol
+    6. oparetors
+
+@lec_2 keyword
+==============
+
+keyword : emon kichu ja reserved word ja ekti nirdisto ortho bohon kore & 
+    program e ekti nirdiso karjo sompadhon kore.
+
+   asm     continue     float        new        singed      try
+--------------------------------------------------------------------------
+   auto     defoult     for         oparetor    sizeif      tyfedev
+   break    delete      friend      private     static      union
+   case     do          goto        protected   struct      unsigned
+   catch    double      if          public      switch      virtual
+   char     else        inline      register    template    void
+   class    enum        int         return      this        volatile
+   const    extern      long        short       throw       while
+
+@ usese
+1. keyword kokhono varible name e use kora jabena.
+2. keyword small latter hote hobe.
+3. duti keyword eksathe hole majkhane space rakhte hobe.
+    : long double;
+
+==============
+@lec_3 varible
+==============
+
+varible : what is /
+1. programme kono ekti nam diye jodi tar odhine data rakha hoy tobe oi namke varible ba chlok bole.
+2. variable e data rakhar age varible declare korte hoy ebing tar data type bole dite hoy.
+    examp:
+    varible declaretion syntaxt  
+    data_type varible_name 
+    int num1, num2;
+    num1 = 10
+    num2 = 20
+
+    int sum  = num1 + num;
+    cout << "sum is " << sum; // sum is 30
+
+3. varible namer moddhe ja bebohar kora jabe letters (a,bc,yz) number (o, 123...)  ( _ and $).
+    surute number kora jabena kono keyword bebohar kora jabena.
+
+=================
+Data type in c++
+=================  
+
+USER-DEFINED TYPE                   BULD-IN TYPE                    DERIVED TYPE  
+---------------------------------------------------------------------------------------
+STRUCTURE    |    -- INTEGER TYPE  -- VOID -- FLOATING TYPE --     |    ARRAY
+UNION        |       int            |       |  float               |    FUNCTION
+CLASS                char           |       |  double                   POINTER
+
+-----------------------------------------------------------------------------------------
+
+============================================
+@lec4 varible declaretion and innitalization
+============================================
+
+varible declaretion   
+    int num1; note: if two data types is same as (int num1, num2;)
+    int num2;   
+    float num3;
+    double num4; // used when need more then 6 digit of FLOATING point.
+    char ch;
+
+varible innitalization
+    num1=10;
+    num2=20;
+    num3=10.2;
+    num4=10.1234567;
+    ch='a';    
+    note: we also can innitaliz data when declareing (int num1=10, num2=20;)
+
+================================================================================================
+
+@@ part 5.----------------- ganitik sonketh
+
+
+1. what is operator, Operand, Expression?
+2. type of operator?
+
+====================
+@lec_1 Operator type
+====================
+
+Example of operator, Operand, Expression?
+
+1. a = b + 7. // ((a and b) varibles is called OPERAND) ((= and +) is called OPERATOR)
+    ((7) is here calld CONSTANT) AND whole called EXPRESSION.
+
+C++ OPERATORS
+
+1. arithmetic operator
+2. assignment operator
+3. Relational operator
+4. logical operator
+5. conditional operator
+6. unary operator
+7. bitwise operator
+8. special operator
+
+----------------------------
+@lec_1.2 arithmetic operator
+
++ - * / %  called arithmetic operator .
+
++  Subtraction
+=  Multipllication
+-  Division
+/  Division
+%  Reminder
+
+-----------------------------
+@lec_1.3 assignment operator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

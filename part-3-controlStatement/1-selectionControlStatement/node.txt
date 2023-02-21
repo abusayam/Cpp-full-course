@@ -1,0 +1,31 @@
+// 1. statement 
+// 2. control statement
+
+
+/** 
+ * @1. what is statement? // any meaningful expression is called a statement
+ * 
+ * Example
+ * x=0;
+ * cout << "positive";
+ * cout << "negative";
+ * cout << " zero";
+ * 
+ * 2. what is control statement? 
+ * 
+ * any digits cant be positive and negative at the same time, that means
+ *  we have to control the statement.// and this called  control statement
+ * 
+ * @2. control statement
+ * 
+ * 1. selection statement 
+ *  (if, else, elseif, switch)
+ * 
+ * 2. iteration / looping
+ *  (for, while, do while)
+ * 
+ * 3. jump statement
+ *  (break, continue, return)
+ *   
+ * 
+*/
