@@ -1,0 +1,11 @@
+=================
+Data type in c++
+=================  
+
+USER-DEFINED TYPE                   BUILD-IN TYPE                    DERIVED TYPE  
+---------------------------------------------------------------------------------------
+STRUCTURE    |    -- INTEGER TYPE  -- VOID -- FLOATING TYPE --     |    ARRAY
+UNION        |       int            |       |  float               |    FUNCTION
+CLASS                char           |       |  double                   POINTER
+
+-----------------------------------------------------------------------------------------

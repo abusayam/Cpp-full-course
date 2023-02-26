@@ -1,0 +1,9 @@
+    examp:
+    varible declaretion syntaxt  
+    data_type varible_name 
+    int num1, num2;
+    num1 = 10
+    num2 = 20
+
+    int sum  = num1 + num;
+    cout << "sum is " << sum; // sum is 30

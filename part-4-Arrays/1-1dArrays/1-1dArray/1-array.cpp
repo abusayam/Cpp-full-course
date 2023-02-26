@@ -29,9 +29,9 @@ int main(){
     cout << marks[3]<<" ";
     cout << marks[4]<<" ";
 
-    int marks1[5]{55, 45, 35, 25, 85}; // array declaration and initializati
+    int marks1[5]{55, 45, 35, 25, 85}; // array declaration and initializati together.
 
-    for(int i = 0; i <=5; i++){
+    for(int i = 0; i <=5; i++){ // array print with with loop statment
         cout<<marks1[i]<<" ";
 
 

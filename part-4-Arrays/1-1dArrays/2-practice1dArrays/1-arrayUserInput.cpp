@@ -13,7 +13,7 @@ int main(){
 
     for ( int i = 0; i < 5; i++)
     {
-        cout<<"Marks forstudent : " <<i+1 <<" = ";
+        cout<<"Marks for student : " <<i+1 <<" = ";
         cin>>marks[i];
     }
     

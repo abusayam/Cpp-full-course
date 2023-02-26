@@ -4,7 +4,7 @@ using namespace std;
 // logical operators
 
 /**
- * we use logical operators when we work with multiple conditions in if and in else if.
+ * we use logical operators when we work with multiple conditions in if and else if.
  * 1. (&&) logical and operator
  * 2. (||) logical or operator
  * 3. (!) logical not operator

@@ -1,0 +1,17 @@
+@ Function: what is it?
+1. A Function is a group of statements that perform a particular task.
+2. if you need to do some things again then you may use the function.
+
+int main(){
+
+    // group of statements.
+}
+
+3. Types of function.
+  example:  getch() , toupper(), tolower().
+1. Library function. 2. User-defined function.
+
+1. Library function // already build-in in the program we just will use.
+2. user-defined // what function we will create. by primitive Data_type 
+
+  

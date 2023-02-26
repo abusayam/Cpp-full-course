@@ -21,6 +21,6 @@ int main(){
    c = a & b;
    cout << c << endl; // result = 0
    /**
-    * this is actually class of ict
+    * this is actually class of ICT
    */
 }

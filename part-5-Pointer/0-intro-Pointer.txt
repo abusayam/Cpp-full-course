@@ -1,0 +1,28 @@
+@ Pointer what is it?
+
+A pointer is a variable that. we store/ Point to the address of another variable.
+
+
+int x = 5;
+
+variable x;
+value 5;
+variable address ??
+
+To print memory address of x : cout <<&x;
+
+declaration of a pointer.
+
+Data_type *variable_name;
+
+example: int *P; char *ch;
+
+in pointer has two symbols to use.
+
+1. & symbol is used to get the address of the variable.
+2. * symbol is used to get the value of the variable that the pointer is pointing to.
+
+
+
+
+

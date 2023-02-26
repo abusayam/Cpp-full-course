@@ -1,0 +1,29 @@
+@@ PART 1--------------------
+
+@ WHAT IS C++ ?
+
+1. c++ is known to be a very powerful computer programming language.
+2. c++ is a general-purpose, case-sensitive, object-oriented programming language.
+
+@USAGE OF C++
+
+1. it is used to develop game engines, games and desktop apps, art application music players.
+2. c++ bong is highly used to write a device driver and other software.
+
+@ HISTORY OF C++
+
+1. c++ programming language developed in 1980 by bjarne striustrup of AT@T 
+2. bjarne striustrup is known as the founder of the c++ programming language.
+3. c++ was derived from c and largely based on it.
+
+@ FEATURES OF C++.
+
+1. simple
+2. mid-level programming language.
+3. rich library
+4. memory management.
+5. fast speed.
+6. pointer.
+7. recursion.
+8. object-oriented.
+9. compiler-based.

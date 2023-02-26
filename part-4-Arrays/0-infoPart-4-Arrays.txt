@@ -1,0 +1,22 @@
+we will Learn in this part. 
+
+1. What are Arrays
+2. Types of Arrays.
+3. declaration, initialization, the sum of Arrays.
+4. sum and average of an array.
+5. maximum and minimum of the array.
+6. Fibonacci series using an array.
+7. Searching a number (Linear number)
+8. copy all elements of an array to another array.
+
+@Types of Arrays
+
+1. One-dimensional (1D) Arrays or Linear Arrays,
+ Example: int marks[10].
+
+2. Multi-dimensional array,
+ (a) two-dimensional (2D) Arrays or Matrix Arrays,
+  Example: int marks[2][3]. // row column.
+
+ (b) three-dimensional array
+   Example: int marks[2][3][2].
